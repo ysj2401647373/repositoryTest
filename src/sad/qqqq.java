@@ -1,5 +1,5 @@
 package sad;
 
 public class qqqq {
-  int a=1;
+  int a=1;a
 }
