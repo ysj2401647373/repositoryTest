@@ -1,5 +1,5 @@
 package sad;
 
 public class qqqq {
-  wwwwwwww
+  int a=1;
 }
